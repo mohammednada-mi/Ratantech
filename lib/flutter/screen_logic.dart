@@ -66,7 +66,7 @@ class _ScreenLogicState extends State<ScreenLogic> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Screen Logic')),
+      appBar: AppBar(title: const Text('رتان')),
       body: SafeArea(
         child: SingleChildScrollView(
           padding: const EdgeInsets.all(16.0),
